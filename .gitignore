@@ -2,6 +2,8 @@
 .DS_Store
 
 # Node.js
+npm-debug.log
+node_modules/*
 socket-test/node_modules/*
 socket-test/npm-debug.log
 socket-client/node_modules/*
