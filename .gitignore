@@ -1,0 +1,7 @@
+# Mac OS X
+.DS_Store
+
+# Node.js
+socket-test/node_modules/*
+socket-test/npm-debug.log
+socket-client/node_modules/*

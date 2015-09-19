@@ -1,0 +1,14 @@
+{
+  "name": "socket-client",
+  "version": "0.0.1",
+  "description": "Standalone socket client test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Cone",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^1.3.6"
+  }
+}
